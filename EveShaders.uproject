@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4C7B9CC3-491A-F106-6D2C-B4A45114E8B8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EveShaders",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
