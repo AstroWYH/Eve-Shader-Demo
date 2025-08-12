@@ -1,6 +1,6 @@
 # 【UE5 C++】渲染 Shader 一个工程搞懂
 
-![动画](https://github.com/user-attachments/assets/41f50ce6-6431-4a42-9390-5e93013d3f5a)
+![动画](render.gif)
 
 ## 项目简介
 
